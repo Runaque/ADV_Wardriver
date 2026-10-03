@@ -265,7 +265,7 @@ ADV Wardriver only **passively records** information that access points broadcas
 
 ## Credits
 
-- **Author:** Runaque ([Runaque](https://github.com/Runaque)), Antwerp, Belgium
+- **Author:** Just me ([Runaque](https://github.com/Runaque)), Antwerp, Belgium
 - **Built on:** [M5Stack UIFlow2 MicroPython](https://github.com/m5stack/uiflow-micropython) (MIT License, © M5Stack Technology Co., Ltd)
 - **Predecessor:** [Tab5 Wardriver](https://github.com/Runaque/Tab5_Wardriver) · [Hackster write-up](https://www.hackster.io/Runaque/tab5-wardriver-a-custom-gps-enabled-wardriving-platform-d5948a)
 
