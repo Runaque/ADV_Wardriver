@@ -1,6 +1,6 @@
 # ADV Wardriver
 
-![Version](https://img.shields.io/badge/version-2.1.0--alpha-orange)
+![Version](https://img.shields.io/badge/version-2.0.0--alpha-orange)
 ![Platform](https://img.shields.io/badge/platform-Cardputer%20ADV-blue)
 ![Firmware](https://img.shields.io/badge/firmware-UIFlow2%20v2.5.3-lightgrey)
 ![License](https://img.shields.io/badge/license-Apache%202.0-green)
