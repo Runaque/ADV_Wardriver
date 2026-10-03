@@ -8,9 +8,7 @@
 **A pocket-sized WiFi wardriving tool for the M5Stack Cardputer ADV with the Cap LoRa-1262 (GNSS).**
 Scans for access points, tags them with GPS coordinates and logs them straight to the SD card in WiGLE CSV format.
 
-<p align="center">
-  <img src="images/bootscreen.jpg" alt="ADV Wardriver boot screen" width="480">
-</p>
+<img width="1280" height="720" alt="ADV_Wardriver" src="https://github.com/user-attachments/assets/f5c7544f-5f8a-4179-8688-2bb2f3910c06" />
 
 ---
 
